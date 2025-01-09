@@ -35,7 +35,11 @@
                 <mj-text font-size=18px align=center color=#3da0fa>Votre ticket est maintenant résolu📝</mj-text>
             </mj-column>
         </mj-section>
-
+        <mj-section>
+        <mj-column>
+        <mj-text><strong>Numéro de votre ticket :</strong> ##linkedticket.id##
+        </mj-column>
+        </mj-section>
         <mj-section padding-bottom="20px" padding-top="20px">
             <mj-column>
                 <mj-text font-size=15px align=center>Bonjour, votre ticket est résolu. Veuillez consulter la réponse et approuvé ou pas la réponse</mj-text>
