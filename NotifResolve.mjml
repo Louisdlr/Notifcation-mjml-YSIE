@@ -32,11 +32,20 @@
 
             <mj-column padding=0>
 
-                <mj-text font-size=18px align=center>Votre ticket est clos✅</mj-text>
+                <mj-text font-size=18px align=center>Votre ticket est maintenant résolu📝</mj-text>
             </mj-column>
         </mj-section>
-             
 
+        <mj-section>
+            <mj-column>
+                <mj-text font-size=15px align=center>Bonjour, votre ticket est résolu. Veuillez consulter la réponse et approuvé ou pas la réponse</mj-text>
+                <mj-button border-radius="40px"background-color="#4B5CA4" font-size=12px>Voir la réponse
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-text padding-top=0px padding-left=30px font-size=15px>Bien à vous, <br> le service YSIE</mj-text>
 
     </mj-body>
 </mjml>
