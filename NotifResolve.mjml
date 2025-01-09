@@ -32,14 +32,14 @@
 
             <mj-column padding=0>
 
-                <mj-text font-size=18px align=center>Votre ticket est maintenant résolu📝</mj-text>
+                <mj-text font-size=18px align=center color=#3da0fa>Votre ticket est maintenant résolu📝</mj-text>
             </mj-column>
         </mj-section>
 
-        <mj-section>
+        <mj-section padding-bottom="20px" padding-top="20px">
             <mj-column>
                 <mj-text font-size=15px align=center>Bonjour, votre ticket est résolu. Veuillez consulter la réponse et approuvé ou pas la réponse</mj-text>
-                <mj-button border-radius="40px"background-color="#4B5CA4" font-size=12px>Voir la réponse
+                <mj-button align=center border-radius="40px"background-color="#4B5CA4" font-size=12px>Voir la réponse
             </mj-column>
         </mj-section>
 
