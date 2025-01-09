@@ -1,0 +1,42 @@
+<mjml>
+    <mj-head>
+        <mj-preview>
+
+        </mj-preview>
+    </mj-head>
+    <mj-body background-color=white>
+
+        <mj-section>
+
+            <mj-column>
+
+                <mj-image width="200px" src="assets/img/YSIE.png"/>
+                <mj-divider border-color="#4B5CA4"></mj-divider>
+            </mj_column>
+
+        </mj-section>  
+
+        <mj-section>
+
+            <mj-column>
+
+                <mj-text align=center font-size="20px">
+                <p>Nouvelle Notification 🚨</p>
+
+                </mj-text>
+
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding=0>
+
+            <mj-column padding=0>
+
+                <mj-text font-size=18px align=center>Votre ticket est clos✅</mj-text>
+            </mj-column>
+        </mj-section>
+             
+
+
+    </mj-body>
+</mjml>
